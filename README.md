@@ -17,3 +17,5 @@ To run it on your system,download the project and in the terminal type
 `python3 manage.py runserver`  
 
 Then open the browser and enter the address shown in the terminal.
+
+* Added codeship build to project
