@@ -18,4 +18,3 @@ To run it on your system,download the project and in the terminal type
 
 Then open the browser and enter the address shown in the terminal.
 
-* Added codeship build to project
